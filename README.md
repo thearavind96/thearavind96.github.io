@@ -1,4 +1,4 @@
-# j47.in - Personal Website
+# Ak96 - Personal Website
 
 ![Jekyll](https://img.shields.io/badge/Jekyll-4.2.2-blue)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-brightgreen)
